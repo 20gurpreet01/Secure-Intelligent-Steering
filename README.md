@@ -5,4 +5,4 @@
 * Cloud Firewall : Implemented an IP-Sec tunnel for efficient network traffic redirection through a Cloud Firewall.
 * On-Box Firewall : Successfully integrated an On-Box Firewall solution, resulting in accelerated traffic redirection and reducing latency by an impressive 0.6 milliseconds.
 
-![image]()
+![image](https://github.com/20gurpreet01/Secure-Intelligent-Steering/blob/main/SIS%20Pic.png)
